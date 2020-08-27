@@ -1,0 +1,13 @@
+404.html
+README.md
+another_file.txt
+apple-touch-icon-precomposed.png
+crossdomain.xml
+css
+favicon.ico
+fonts
+humans.txt
+index.html
+js
+robots.txt
+simple.html
